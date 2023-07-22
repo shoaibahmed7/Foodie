@@ -1,0 +1,30 @@
+.signup {
+    background-image: url('E:\web_technlogies\projects\finalprojectMern\FrontEnd\public\images\loginbck');
+    /* background-repeat: no-repeat; */
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* background-size: 100%; */
+    height: 100vh;
+}
+
+.signblk {
+    background-color: rgba(0, 0, 0, 0.404);
+    background-size: cover;
+    height: 100vh;
+}
+
+.signUp_form {
+    position: relative;
+    top: 100px;
+}
+
+.signUp_form input {
+    background-color: black;
+    outline: none;
+    color: white;
+}
+
+.signUp_form input:focus {
+    background-color: black;
+    color: white;
+}

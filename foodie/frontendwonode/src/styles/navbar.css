@@ -1,0 +1,17 @@
+.links li {
+    display: inline-block;
+    justify-content: space-between;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.links a {
+    text-decoration: none;
+    color: black;
+}
+
+.nav {
+    justify-content: space-between;
+    padding: 0px 200px;
+    margin-left: 30px;
+}
